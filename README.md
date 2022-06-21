@@ -1,4 +1,3 @@
-![This is an image](https://github.com/coderMeira/cpp_01/blob/master/subject_01/subject_01-00.jpg)
 ![This is an image](https://github.com/coderMeira/cpp_01/blob/master/subject_01/subject_01-01.jpg)
 ![This is an image](https://github.com/coderMeira/cpp_01/blob/master/subject_01/subject_01-02.jpg)
 ![This is an image](https://github.com/coderMeira/cpp_01/blob/master/subject_01/subject_01-03.jpg)
